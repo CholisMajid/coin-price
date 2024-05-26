@@ -15,20 +15,16 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd coin-price
 ```
 
-Install dependencies
+Open the index.html file in your browser:
 
 ```bash
-  npm install
+  open index.html  # macOS
+  xdg-open index.html  # Linux
 ```
 
-Start the server
-
-```bash
-  npm run start
-```
 
 
 ## Screenshots
